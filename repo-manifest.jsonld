@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/mirumee/ariadne/commit/08c97a86577f012d510241c457eedf16b3dffdcf",
       "git:hexsha": "08c97a86577f012d510241c457eedf16b3dffdcf",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "1.1.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "1.1.1",
+      "repolex:parsedAt": "2026-10-19T12:15:42.010462+00:00"
     },
     {
       "@id": "https://repolex.ai/r/mirumee/ariadne/commit/66d51d6b69d01057a45ea9931fb849377399da83",
