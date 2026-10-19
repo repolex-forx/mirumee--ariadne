@@ -1,0 +1,11 @@
+{
+  "org": "mirumee",
+  "repo": "ariadne",
+  "versions": [
+    {
+      "commit": "08c97a86577f012d510241c457eedf16b3dffdcf",
+      "tag": "1.1.1",
+      "parsed_at": "2026-10-19T12:15:42.011346+00:00"
+    }
+  ]
+}
